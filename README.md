@@ -51,14 +51,14 @@ Chạy backend:
 bun run dev/prod
 ```
 
-### Frontend (React Native)
+### ShareAndCareUI (React Native)
 Vào thư mục frontend, cài đặt các package cần thiết:
 ```bash
 cd frontend
 npm install
 ```
 
-Chỉnh sửa URL API trong file ./frontend/API/API.js:
+Chỉnh sửa URL API trong file ./API/API.js:
 ```javascript
 const IP_ADD = 'YOUR_IP';
 ```
