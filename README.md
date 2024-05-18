@@ -1,5 +1,6 @@
 backend:
 --> bun install
+--> create .env
 --> bun run dev
 
 ShareAndCareUI:
